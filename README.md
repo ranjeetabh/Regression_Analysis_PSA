@@ -6,4 +6,4 @@ PSA is commonly used as a screening mechanism for detecting prostate cancer. How
 
 1) Final_Report.R - Complete R Script containing analysis.
 
-2) Final_Report_Analysis.doc - Detailed project report.
+2) Final_Report_Analysis.pdf - Detailed project report.
